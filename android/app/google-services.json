@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "974695065426",
+    "firebase_url": "https://taxishare-9b968-default-rtdb.firebaseio.com",
+    "project_id": "taxishare-9b968",
+    "storage_bucket": "taxishare-9b968.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:974695065426:android:5a37433e00c5238a0abc8b",
+        "android_client_info": {
+          "package_name": "com.example.shareride_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "974695065426-df5m70n3j0hdc1ko5lq7qoh3dq6gk6ir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6S8Rfq4Sr4FW0lvWUwj5KDbIeD_sYBeo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "974695065426-df5m70n3j0hdc1ko5lq7qoh3dq6gk6ir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
